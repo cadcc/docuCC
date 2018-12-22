@@ -8,11 +8,11 @@ Hay algunas salas que se pueden ocupar sin pedirlas antes, porque tenemos llaves
 
 Correo de ejemplo:
 
->Asunto: Solicitud sala <nombre sala en el SAR>
+>Asunto: Solicitud sala ```<nombre sala en el SAR>```
 >Cuerpo:
 >Estimada Sandra,
 
->Nos gustaría saber si es posible reservar la sala <nombre de sala en el SAR>, el <día> de <hora inicio> a <hora final>, para <motivo de reserva>.
+>Nos gustaría saber si es posible reservar la sala ```<nombre de sala en el SAR>```, el ```<día>``` de ```<hora inicio>``` a ```<hora final>```, para ```<motivo de reserva>```.
 
 >Saludos,
 ><Persona que envía correo>
@@ -27,3 +27,4 @@ Para pedir una reunión, basta enviarle un correo al director de turno, pidiendo
 
 Se puede aprovechar la cercanía que hay en el departamento para pedir las cosas de buena manera, si las cosas se piden así en general las aceptan sin problemas.
 
+# Reuniones de la directiva
