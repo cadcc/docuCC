@@ -22,3 +22,18 @@ Correo de ejemplo:
 
 Si se les olvida enviar el correo (a cualquiera le puede pasar), pueden ir a su oficina antes de usar el espacio, diciéndole que porfiporfi les perdone, y que nunca más va a pasar (lo que es mentira).
 
+## Pedir espacios externos
+
+Para eventos más grandes, como por ejemplo los espacios de comunes de 851, es necesario pedirlos a la SAO. Para ello, hay que enviarle un correo como el siguiente:
+
+>Estimada Patricia,
+
+>Queremos solicitar el espacio ```<descripción del espacio>``` para ```motivo de uso y descripción de por qué es necesario usarlos```
+
+>El evento se realizará ```<fechas de evento>``` y nos gustaría utilizar los espacios ```<fechas y horarios>```. 
+
+>Saludos,
+
+>```<Persona que manda correo>```
+
+Es bastante probable que el correo no lo respondan. En ese caso, conviene enviar otro preguntando si recibieron el primero (esto apura el proceso sin ser muy cargantes).
