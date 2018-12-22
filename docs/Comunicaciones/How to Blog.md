@@ -15,6 +15,19 @@ Si el servidor está usando gutemberg puedes ver este [tutorial](https://www.you
 Los afiches periódicos como los del los Resúmenes Semanales y OpinaDCC's se hacen con [inkscape](https://inkscape.org/es/release/inkscape-0.92.3/).
 Para el resto de los afiches se usa cualquier editor de imagenes como Paint, Photoshop, Clip Studio Paint, Ilustrator, etc.
 
+Para afiches oficiales, la paleta de colores oficial del CaDCC es la siguiente:
+
+Nombre Color | Código RGB
+------------ | -------------
+Persian Green | #00ada0
+St. Tropaz | #2c5aa0
+Wild Strawberry | #ff2a7f
+Candlelight | #ffd91e
+Violent Violet | #1a0856
+Waikawa Gray | #606898
+
+Los nombres fueron sacados usando la página [http://chir.ag/projects/name-that-color](http://chir.ag/projects/name-that-color)
+
 ## Tips
 
 * Recordar poner siempre la fecha y el lugar si es que es un evento.
@@ -31,5 +44,6 @@ Para redactar mails, recuerda hacerlo siempre con respeto y buena actitud. Tambi
 > 
 > Saludos!
 > 
-> Sebastián Cisneros. 
+> Sebastián Cisneros.
 > Comunicaciones CaDCC 2018-2019
+
