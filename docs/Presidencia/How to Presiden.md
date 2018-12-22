@@ -7,17 +7,23 @@ Para pedir espacios que se encuentran dentro del DCC, hay que seguir los siguien
 Hay algunas salas que se pueden ocupar sin pedirlas antes, porque tenemos llaves, como por ejemplo la "Fundadores". De todas formas, siempre es mejor pedir permiso para que quede registro ante cualquier eventualidad.
 
 Correo de ejemplo:
-```
-Asunto: Solicitud sala <nombre sala en el SAR>
-Cuerpo:
-Estimada Sandra,
 
-Nos gustaría saber si es posible reservar la sala <nombre de sala en el SAR>, el <día> de <hora inicio> a <hora final>, para <motivo de reserva>.
+>Asunto: Solicitud sala <nombre sala en el SAR>
+>Cuerpo:
+>Estimada Sandra,
 
-Saludos,
-<Persona que envía correo>
-```
+>Nos gustaría saber si es posible reservar la sala <nombre de sala en el SAR>, el <día> de <hora inicio> a <hora final>, para <motivo de reserva>.
+
+>Saludos,
+><Persona que envía correo>
 
 Si se les olvida enviar el correo (a cualquiera le puede pasar), pueden ir a su oficina antes de usar el espacio, diciéndole que porfiporfi les perdone, y que nunca más va a pasar (lo que es mentira).
 
-# Reuniones con 
+# Reuniones con Dirección
+
+Es bueno tener reuniones al menos una vez al mes con el director del departamento. En general, hay consejo departamental a principios de mes, por lo que la semana después al consejo ya hay noticias de cosas que deben aprobar (compra de cosas, por ejemplo).
+
+Para pedir una reunión, basta enviarle un correo al director de turno, pidiendo la reunión con una fecha y hora en específico, ya que así es más fácil coordinarla.
+
+Se puede aprovechar la cercanía que hay en el departamento para pedir las cosas de buena manera, si las cosas se piden así en general las aceptan sin problemas.
+
