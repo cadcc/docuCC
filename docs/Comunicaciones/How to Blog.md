@@ -4,8 +4,6 @@ Primero ingresa a cadcc.cl/login y ingresa tu usuario y clave (si no tienes píde
 
 Luego ve a entradas y haz click en agregar una entrada.
 
-![](_static/howtoblog1.png)
-
 Después te debería aparecer una pantalla así:
 
 Después solo falta escribir el post
