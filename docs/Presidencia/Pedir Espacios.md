@@ -1,5 +1,3 @@
-# How to hacer cosas de president
-
 ## Pedir espacios del DCC
 
 Para pedir espacios que se encuentran dentro del DCC, hay que seguir los siguientes pasos:
@@ -24,14 +22,3 @@ Correo de ejemplo:
 
 Si se les olvida enviar el correo (a cualquiera le puede pasar), pueden ir a su oficina antes de usar el espacio, diciéndole que porfiporfi les perdone, y que nunca más va a pasar (lo que es mentira).
 
-## Reuniones con Dirección
-
-Es bueno tener reuniones al menos una vez al mes con el director del departamento. En general, hay consejo departamental a principios de mes, por lo que la semana después al consejo ya hay noticias de cosas que deben aprobar (compra de cosas, por ejemplo).
-
-Para pedir una reunión, basta enviarle un correo al director de turno, pidiendo la reunión con una fecha y hora en específico, ya que así es más fácil coordinarla.
-
-Se puede aprovechar la cercanía que hay en el departamento para pedir las cosas de buena manera, si las cosas se piden así en general las aceptan sin problemas.
-
-## Reuniones de la directiva
-
-Se deben hacer reuniones al menos una vez a la semana con la directiva del CaDCC (pueden haber excepciones)
