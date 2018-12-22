@@ -11,7 +11,7 @@
   tarreo el viernes 27 de abril en el laboratorio Lorenzo y "la salita", 
   a partir de las 18:00 hrs.
   >
-  > Saludos, \<yo>.
+  > Saludos, `<yo>`.
 
 
 * **Pedir espacio a la secretaria docente**
@@ -24,7 +24,7 @@
   Agosto desde las 19:30 en adelante para la realización de un tarreo. 
   Abajo la autorización de Benjamin Bustos para realizar este evento.
   >
-  > Saludos, \<yo>.
+  > Saludos, `<yo>`.
 
 
 * **Pedir cuenta e instalación de juegos en lorenzo a sistemas**

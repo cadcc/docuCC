@@ -11,7 +11,7 @@
   karaoke de alumnos el viernes 10 de Agosto en el Auditorio Ramon Picarte, 
   a partir de las 18:30 hrs.
   >
-  > Saludos, \<yo>
+  > Saludos, `<yo>`.
 
 
 * **Pedir espacio a la secretaria docente
@@ -24,7 +24,7 @@
   Agosto desde las 18:30 en adelante para la realización de un karaoke. 
   Abajo la autorización de Benjamin Bustos para realizar este evento.
   >
-  > Saludos, \<yo>
+  > Saludos, `<yo>`.
 
 
 * **Difundir**
