@@ -4,7 +4,7 @@ Primero ingresa a cadcc.cl/login y ingresa tu usuario y clave (si no tienes píde
 
 Luego ve a entradas y haz click en agregar una entrada.
 
-![entradas](_static/Comunicaciones/howtoblog1.png)
+![](_static/howtoblog1.png)
 
 Después te debería aparecer una pantalla así:
 
